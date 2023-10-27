@@ -1,0 +1,28 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.customPopup {
+  background-color: gray; /* Cambia questo colore al colore desiderato */
+  color: black; /* Cambia il colore del testo se necessario */
+  padding: 10px; /* Aggiungi spazio interno al popup se necessario */
+  /* Altri stili CSS desiderati per il tuo popup */
+}
